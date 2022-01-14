@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photoeditor</string>
+    <string name="gallery">Gallery</string>
+    <string name="capture_photo">Capture Photo</string>
+</resources>
